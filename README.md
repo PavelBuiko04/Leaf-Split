@@ -1,4 +1,4 @@
 # Leaf-Split 
 
 Website:
-https://pavelbuiko04.github.io/web_leaf/
+[leafsplit.com](https://www.leafsplit.com/)
